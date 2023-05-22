@@ -23,7 +23,7 @@ def remover_arquivos(pasta, nomes_arquivos):
             print(arquivo)
 
 # Exemplo de uso:
-pasta = fr"C:\Users\rai.magalhaes\Downloads\OUTNFE_20230522175527"  #caminho da pasta 
+pasta = fr"coloque aqui o caminho da pasta"  #caminho da pasta 
 nomes_arquivos = [""]  #nome dos arquivos que vao ser deletados
 
 remover_arquivos(pasta, nomes_arquivos)
